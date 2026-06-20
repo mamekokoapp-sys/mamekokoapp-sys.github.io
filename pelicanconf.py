@@ -1,6 +1,6 @@
 AUTHOR = 'おれ'
 SITENAME = 'まめここ'
-SITEURL = ""
+SITEURL = "https://mamekokoapp-sys.github.io"
 
 PATH = "content"
 
